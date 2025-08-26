@@ -1,0 +1,1 @@
+Extendi la funcionalidad de un ejercicio donde se me pedia un insert y un get a un CRUD implementando patrones de diseño como DAO, Abstract Factory y Singleton diviendiendo la arquitectura de la aplicación en capas
